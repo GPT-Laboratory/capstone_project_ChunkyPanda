@@ -2,7 +2,7 @@
 ## Key Files
 | File | Description |
 |------|-------------|
-| [ChunkyPanda_code.ipynb](ChunkyPanda_code.ipynb) | Complete implementation notebook |
+| [ChunkyPanda-code.ipynb](ChunkyPanda_code.ipynb) | Complete implementation notebook |
 | [ChunkyPanda_report.pdf](ChunkyPanda_report.pdf) | Technical report with analysis |
 | `requirements.txt` | Python dependencies |
 
